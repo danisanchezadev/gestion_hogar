@@ -1,0 +1,32 @@
+{
+  "transactions": [
+    {
+      "kind": "income",
+      "category": "Nomina",
+      "amount": 2150.0,
+      "date": "2026-03-01",
+      "note": "Salario mensual"
+    },
+    {
+      "kind": "expense",
+      "category": "Comida",
+      "amount": 320.4,
+      "date": "2026-03-03",
+      "note": "Compra semanal"
+    },
+    {
+      "kind": "expense",
+      "category": "Suministros",
+      "amount": 142.15,
+      "date": "2026-03-07",
+      "note": "Luz y agua"
+    },
+    {
+      "kind": "investment",
+      "category": "ETF",
+      "amount": 250.0,
+      "date": "2026-03-10",
+      "note": "Aportacion automatica"
+    }
+  ]
+}

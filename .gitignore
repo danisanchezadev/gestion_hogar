@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+data/*.db
+gestion_hogar/ui/tempCodeRunnerFile.py
